@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="distancia_botao_altura">14dp</dimen>
+    <dimen name="largura_botao">130dp</dimen>
+    <dimen name="altura_botao">40dp</dimen>
+    <dimen name="distancia_botao_largura">5dp</dimen>
+    <dimen name="tamanho_foto_unidade">200px</dimen>
+    <dimen name="icone_informa_vagas_largura">60dp</dimen>
+    <dimen name="icone_informa_vagas_altura">20dp</dimen>
+
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="altura_botao">40dp</dimen>
+    <dimen name="distancia_botao_altura">14dp</dimen>
+    <dimen name="distancia_botao_largura">5dp</dimen>
+    <dimen name="icone_informa_vagas_altura">20dp</dimen>
+    <dimen name="icone_informa_vagas_largura">60dp</dimen>
+    <dimen name="largura_botao">130dp</dimen>
+    <dimen name="tamanho_foto_unidade">200px</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Vagas Facil Uninorte</string>
+    <string name="creditos">Projeto Conclusão de Curso - Diego, Marcio, Nelry</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="informacoes_ip">Insira acima o endereco IP do Servidor do Banco de Dados(Conforme Relatorio) e clique no botao ATUALIZAR</string>
+    <string name="pergunta_inicial">Para Onde Você Quer Ir?</string>
+    <string name="unidade1">Unidade 1</string>
+    <string name="unidade10">Unidade 10</string>
+    <string name="unidade11">Unidade 11</string>
+    <string name="unidade12">Unidade 12</string>
+    <string name="unidade13">Unidade 13</string>
+    <string name="unidade2">Unidade 2</string>
+    <string name="unidade3">Unidade 3</string>
+    <string name="unidade4">Unidade 4</string>
+    <string name="unidade6">Unidade 6</string>
+    <string name="unidade7">Unidade 7</string>
+    <string name="unidade8">Unidade 8</string>
+    <string name="unidade9">Unidade 9</string>
+    <string name="vaga_cancela">Vaga Com Cancela</string>
+    <string name="vaga_sem_cancela">Vaga Sem Cancela</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="vagas_facil_tema">
+        
+        <item name="android:background">@drawable/main_header_selector</item>
+        
+        
+    </style>
+</resources>

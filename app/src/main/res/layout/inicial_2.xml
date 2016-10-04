@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/main_header_selector"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="TODO"
+        android:src="@drawable/marca_uninorte_2"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="7"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/vaga_com_cancela"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:background="@drawable/fundo_botao"
+            android:text="@string/vaga_cancela"
+            android:textColor="@android:color/white" />
+        
+        <!-- View utilizada como separador -->
+    <View
+        android:layout_width="fill_parent" 
+        android:layout_height="10sp"        
+        android:id="@+id/view2"></View>
+
+        <Button
+            android:id="@+id/vaga_sem_cancela"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:background="@drawable/fundo_botao"
+            android:text="@string/vaga_sem_cancela"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="bottom"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/creditos"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:textColor="@android:color/darker_gray"
+            android:text="@string/creditos" />
+    </LinearLayout>
+
+</LinearLayout>

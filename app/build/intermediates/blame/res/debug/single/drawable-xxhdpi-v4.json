@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/diego/VagasFacilUninorte/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/botao_seleciona_unidade_background.xml",
+        "source": "/home/diego/VagasFacilUninorte/app/src/main/res/drawable-xxhdpi/botao_seleciona_unidade_background.xml"
+    },
+    {
+        "merged": "/home/diego/VagasFacilUninorte/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/diego/VagasFacilUninorte/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/diego/VagasFacilUninorte/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/main_header_selector.xml",
+        "source": "/home/diego/VagasFacilUninorte/app/src/main/res/drawable-xxhdpi/main_header_selector.xml"
+    },
+    {
+        "merged": "/home/diego/VagasFacilUninorte/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/fundo_informa_vagas.xml",
+        "source": "/home/diego/VagasFacilUninorte/app/src/main/res/drawable-xxhdpi/fundo_informa_vagas.xml"
+    },
+    {
+        "merged": "/home/diego/VagasFacilUninorte/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/fundo_botao.xml",
+        "source": "/home/diego/VagasFacilUninorte/app/src/main/res/drawable-xxhdpi/fundo_botao.xml"
+    },
+    {
+        "merged": "/home/diego/VagasFacilUninorte/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/unidade04_1.jpg",
+        "source": "/home/diego/VagasFacilUninorte/app/src/main/res/drawable-xxhdpi/unidade04_1.jpg"
+    },
+    {
+        "merged": "/home/diego/VagasFacilUninorte/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/marca_uninorte_2.png",
+        "source": "/home/diego/VagasFacilUninorte/app/src/main/res/drawable-xxhdpi/marca_uninorte_2.png"
+    },
+    {
+        "merged": "/home/diego/VagasFacilUninorte/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/unidade04_2.jpg",
+        "source": "/home/diego/VagasFacilUninorte/app/src/main/res/drawable-xxhdpi/unidade04_2.jpg"
+    },
+    {
+        "merged": "/home/diego/VagasFacilUninorte/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/home.png",
+        "source": "/home/diego/VagasFacilUninorte/app/src/main/res/drawable-xxhdpi/home.png"
+    },
+    {
+        "merged": "/home/diego/VagasFacilUninorte/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bus.png",
+        "source": "/home/diego/VagasFacilUninorte/app/src/main/res/drawable-xxhdpi/bus.png"
+    },
+    {
+        "merged": "/home/diego/VagasFacilUninorte/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/fundo.jpg",
+        "source": "/home/diego/VagasFacilUninorte/app/src/main/res/drawable-xxhdpi/fundo.jpg"
+    },
+    {
+        "merged": "/home/diego/VagasFacilUninorte/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/marca_uninorte.png",
+        "source": "/home/diego/VagasFacilUninorte/app/src/main/res/drawable-xxhdpi/marca_uninorte.png"
+    },
+    {
+        "merged": "/home/diego/VagasFacilUninorte/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/atualizar.png",
+        "source": "/home/diego/VagasFacilUninorte/app/src/main/res/drawable-xxhdpi/atualizar.png"
+    },
+    {
+        "merged": "/home/diego/VagasFacilUninorte/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/uni4.jpg",
+        "source": "/home/diego/VagasFacilUninorte/app/src/main/res/drawable-xxhdpi/uni4.jpg"
+    }
+]

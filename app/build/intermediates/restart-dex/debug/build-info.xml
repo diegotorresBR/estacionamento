@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="hdpi"
+    format="7"
+    timestamp="16283343733802"
+    token="-1260548918036303162"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="95" />
+    <task
+        name="instant-run-dex"
+        duration="534" />
+    <task
+        name="instant-run-transform"
+        duration="28" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/home/diego/VagasFacilUninorte/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="15997176422380" >
+        <artifact
+            location="/home/diego/VagasFacilUninorte/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="16229327492455" >
+        <artifact
+            location="/home/diego/VagasFacilUninorte/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="16283343733802"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/diego/VagasFacilUninorte/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
