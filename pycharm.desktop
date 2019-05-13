@@ -1,0 +1,11 @@
+[Desktop Entry]
+
+Name=Pycharm ide python
+Comment=Desenvolva Python
+Exec=/opt/pycharm/pycharm-community-2019.1.2/bin/pycharm.sh
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/opt/pycharm/pycharm-community-2019.1.2/bin/pycharm.png
+Categories=GNOME;GTK;Network;Development;
+StartupNotify=true
